@@ -31,8 +31,9 @@ const stack = [
     ],
     soft: [
       "Yarn",
-      "npm",
-      "github"
+      "Npm",
+      "Github",
+      "Swagger"
     ]
     editorDesign: [
       "Figma",
