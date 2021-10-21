@@ -26,8 +26,8 @@ const stack = [
       "MySQL"
     ],
     framework: [
-      "opencart",
-      "laravel"
+      "Opencart",
+      "Laravel"
     ],
     soft: [
       "Yarn",
