@@ -19,6 +19,7 @@ const stack = [
       "HTML", 
       "CSS",
       "SCSS",
+      "Css Modules"
       "LESS"
     ],
     backend: [
