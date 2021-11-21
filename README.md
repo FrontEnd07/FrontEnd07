@@ -16,18 +16,21 @@ const stack = [
       "JavaScript", 
       "JQuery", 
       "Ajax", 
-      "HTML", 
-      "CSS",
-      "SCSS",
-      "Css Modules"
+      "Html", 
+      "Css",
+      "Scss",
+      "Css Modules",
       "LESS"
     ],
     backend: [
       "Php",
-      "MySQL"
+      "NodeJs",
+      "MySQL",
+      "MongoDb"
     ],
     framework: [
       "Opencart",
+      "ExpressJs",
       "Laravel"
     ],
     soft: [
