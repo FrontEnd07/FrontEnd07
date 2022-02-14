@@ -31,7 +31,8 @@ const stack = [
     framework: [
       "Opencart",
       "ExpressJs",
-      "Laravel"
+      "Laravel",
+      "Yii2"
     ],
     soft: [
       "Yarn",
